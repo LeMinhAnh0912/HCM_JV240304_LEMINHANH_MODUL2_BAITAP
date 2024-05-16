@@ -1,0 +1,27 @@
+.main-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 40px;
+}
+.visited {
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 80px;
+}
+.followed {
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 45px;
+}
+.link-website {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+.website {
+  background-color: black;
+}
